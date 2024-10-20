@@ -435,7 +435,7 @@ Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 4-1 | 1st Favorite emoji | :P
 2 | 4-2 | Link to `commit #1 from Github.com` | [Update README.md](https://github.com/)
-3 | 4-3 | Link to markdown tables docs | [Update README.md](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://www.codecademy.com/resources/docs/markdown/tables))
+3 | 4-3 | Link to markdown tables docs | [Update README.md](https://www.codecademy.com/resources/docs/markdown/tables)
 4 | 4-4 | What does `log` do? | Shows commit history
 5 | 5-1 | 2nd Favorite emoji | :)
 6 | 5-2 | Link to `commit #2 from Github Desktop` |
