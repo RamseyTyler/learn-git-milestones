@@ -436,7 +436,7 @@ Row | Step | Description | Completed
 1 | 4-1 | 1st Favorite emoji | :P
 2 | 4-2 | Link to `commit #1 from Github.com` |
 3 | 4-3 | Link to markdown tables docs |
-4 | 4-4 | What does `log` do? |
+4 | 4-4 | What does `log` do? | Shows commit history
 5 | 5-1 | 2nd Favorite emoji | :)
 6 | 5-2 | Link to `commit #2 from Github Desktop` |
 7 | 6-1 | Full path to your working directory |
