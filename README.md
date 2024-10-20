@@ -439,7 +439,8 @@ Row | Step | Description | Completed
 4 | 4-4 | What does `log` do? | Shows commit history
 5 | 5-1 | 2nd Favorite emoji | :)
 6 | 5-2 | Link to `commit #2 from Github Desktop` |
-7 | 6-1 | Full path to your working directory |
+7 | 6-1 | Full path to your working directory | /Users/tyramsey/Documents/GitHub/game dev pa/learn-git-milestones
+
 8 | 6-2 | Link to `commit #3 from CLI` |
 9 | 7-1 | Link to `first-website` github.com repo page |
 10 | 8-1 | Link to `first-website` github.io "project site" |
