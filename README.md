@@ -438,7 +438,7 @@ Row | Step | Description | Completed
 3 | 4-3 | Link to markdown tables docs | [Update README.md](https://www.codecademy.com/resources/docs/markdown/tables)
 4 | 4-4 | What does `log` do? | Shows commit history
 5 | 5-1 | 2nd Favorite emoji | :)
-6 | 5-2 | Link to `commit #2 from Github Desktop` |
+6 | 5-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/RamseyTyler/learn-git-milestones/commit/489fafa3f8369337a224766dd247d0b7868e9e73#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5)
 7 | 6-1 | Full path to your working directory | /Users/tyramsey/Documents/GitHub/game dev pa/learn-git-milestones
 
 8 | 6-2 | Link to `commit #3 from CLI` |
