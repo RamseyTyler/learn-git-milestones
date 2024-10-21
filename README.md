@@ -433,7 +433,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-1 | 4-1 | 1st Favorite emoji | :P
+1 | 4-1 | 1st Favorite emoji | :3
 2 | 4-2 | Link to `commit #1 from Github.com` | [Update README.md](https://github.com/)
 3 | 4-3 | Link to markdown tables docs | [Update README.md](https://www.codecademy.com/resources/docs/markdown/tables)
 4 | 4-4 | What does `log` do? | Shows commit history
